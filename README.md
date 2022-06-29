@@ -1,3 +1,3 @@
-# JavaScript excercise 
+# JavaScript excercises
 
 Class notes 
